@@ -1,1 +1,1 @@
-# TESTGIT1000000
+This is a comprehensive Python-based game application developed as part of the Problem Solving and Data Structures & Algorithms (PDSA) module for the BSc (Hons) Computing – Batch 24.1 at NIBM Sri Lanka. The project consists of five algorithm-intensive games, each designed to demonstrate advanced problem-solving, algorithm design, and performance analysis.
